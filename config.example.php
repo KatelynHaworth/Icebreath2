@@ -45,10 +45,10 @@
  *        controllers return this in error's so that users can contact you to
  *        report a problem
  **/
-define( "ICEBREATH_RESPONSE_TYPE",      "JSON" )
+define( "ICEBREATH_RESPONSE_TYPE",      "JSON" );
 define( "ICEBREATH_SUB_DIR",            null );
 define( "ICEBREATH_LOCATION",           "Your/Location" );
-define( "ICEBREATH_DEBUG",              true )
+define( "ICEBREATH_DEBUG",              true );
 define( "ICEBREATH_ADMIN",              "you@yoursite.com" );
 
 
