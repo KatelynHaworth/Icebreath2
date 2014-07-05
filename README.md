@@ -14,6 +14,8 @@ Version
 
 0.0.1_BETA
 
+**Because this software is still in beta some features and controllers may not work how they should!**
+
 Installation
 --------------
 
