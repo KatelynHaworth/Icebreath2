@@ -133,7 +133,7 @@ define( "ICECAST_SERVER_PASS", null /*"hackme"*/ );
 
 
 /**
- * ShoutIRC is a all-in-one system for online radio stations, it can ack as a
+ * ShoutIRC is a all-in-one system for online radio stations, it can act as a
  * AutoDJ that accepts song requests, it can interact with users on IRC, tweet
  * to your stations twitter and more!
  * 
