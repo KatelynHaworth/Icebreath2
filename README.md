@@ -1,11 +1,4 @@
-             _____         _                    _   _      _____ 
-            |_   _|       | |                  | | | |    / __  \
-              | |  ___ ___| |__  _ __ ___  __ _| |_| |__  `' / /'
-              | | / __/ _ \ '_ \| '__/ _ \/ _` | __| '_ \   / /  
-             _| || (_|  __/ |_) | | |  __/ (_| | |_| | | |./ /___
-             \___/\___\___|_.__/|_|  \___|\__,_|\__|_| |_|\_____/
-             
- Icebreath2
+Icebreath2
 =========
 
 Icebreath2 is a PHP based data API used to retrive and proccess data from online radio station broadcasting systems such as SHOUTcast and Icecast. 
