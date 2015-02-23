@@ -75,12 +75,6 @@ define( "ICEBREATH_VERSION", "2.0.0_BETA" );
  ini_set('display_errors', ICEBREATH_DEBUG);
  register_shutdown_function("ib_fatal_catch");
  
- /*Inialize the session*/
- session_start();
- 
- /*composer.json autoload system*/
- //require_once ICE_VEN_DIR . '/autoload.php'; //This may be used at a latter date if controllers get turned into composer packages
- 
  /*If all is good above then start the main application*/	
  require_once ICE_BAS_DIR . "/App.php";
  Icebreath\App::run();
