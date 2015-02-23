@@ -4,7 +4,7 @@ Icebreath2
 Icebreath2 is a PHP based data API used to retrive and proccess data from
 online radio station broadcasting systems such as SHOUTcast and Icecast.
 
-Icebreath was designed and put together by Liam (production@hiveradio.net) for
+Icebreath was designed and put together by Liam Haworth (liam.haworth@hivemedia.net.au) for
 [The Hive Radio][1] so that they could get information from their Icecast
 server and display it on their website. It soon grew from there and now
 supports SHOUTcast and ShoutIRC with more to come!
@@ -16,7 +16,7 @@ supports SHOUTcast and ShoutIRC with more to come!
 Version
 ----
 
-`0.0.1_BETA`
+`2.0_BETA`
 
 **Because this software is still in beta some features and controllers may not
 work how they should!**
@@ -106,7 +106,7 @@ $ mv config.example.php config.php
 License
 ----
 
-Copyright (c) Liam 'Auzzie' Haworth <production@hiveradio.net>, 2013-2014.
+Copyright (c) Liam 'Auzzie' Haworth <liam.hawoth@hivemedia.net.au>, 2013-2014.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
